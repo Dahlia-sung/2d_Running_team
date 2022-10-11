@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b87503177237da948bf948b617ff7b78
+guid: 4e6f8c48f4aecaf458c6e29bc08f48f8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: circle_idle_0
+      name: tri_idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1dfbb1e161d3834092bb90d47daa617
-      internalID: 1301260891
+      spriteID: 6e25a46ae092d624189a7666b479603c
+      internalID: 94313702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle_idle_1
+      name: tri_idle_1
       rect:
         serializedVersion: 2
         x: 128
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0b201a2326aa184cb60039e8063278e
-      internalID: 480604481
+      spriteID: 17fb8b106c7fa2947baf4c7c64313f3c
+      internalID: 1285414318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle_idle_2
+      name: tri_idle_2
       rect:
         serializedVersion: 2
         x: 256
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dc1c7c2b607a2049bf041638b1598cb
-      internalID: -442673956
+      spriteID: 5720594761588744d8034d0ec11004b3
+      internalID: 1723658658
       vertices: []
       indices: 
       edges: []
@@ -193,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: bd3822cf68e1e2c44af4f2d43ec06d75
+    spriteID: e40b31bc36fce48429d3604d23b2122d
     internalID: 0
     vertices: []
     indices: 
@@ -201,9 +201,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      circle_idle_2: -442673956
-      circle_idle_0: 1301260891
-      circle_idle_1: 480604481
+      tri_idle_0: 94313702
+      tri_idle_2: 1723658658
+      tri_idle_1: 1285414318
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

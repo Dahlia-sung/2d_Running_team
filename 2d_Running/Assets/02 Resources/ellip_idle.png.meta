@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b87503177237da948bf948b617ff7b78
+guid: dc68f45d83879d444a2130e7c63a5a78
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: circle_idle_0
+      name: ellip_idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1dfbb1e161d3834092bb90d47daa617
-      internalID: 1301260891
+      spriteID: abb71307fc06dad4cb9df973fbcfdf42
+      internalID: -1368133538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle_idle_1
+      name: ellip_idle_1
       rect:
         serializedVersion: 2
         x: 128
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0b201a2326aa184cb60039e8063278e
-      internalID: 480604481
+      spriteID: 67e1f20280760324f9f38be3a37e76f8
+      internalID: -2008431401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: circle_idle_2
+      name: ellip_idle_2
       rect:
         serializedVersion: 2
         x: 256
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dc1c7c2b607a2049bf041638b1598cb
-      internalID: -442673956
+      spriteID: eab8628b91f65bc4d808c4f25d3f79b2
+      internalID: 586311651
       vertices: []
       indices: 
       edges: []
@@ -193,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: bd3822cf68e1e2c44af4f2d43ec06d75
+    spriteID: fb657c77a501a964f8e345d12609f3db
     internalID: 0
     vertices: []
     indices: 
@@ -201,9 +201,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      circle_idle_2: -442673956
-      circle_idle_0: 1301260891
-      circle_idle_1: 480604481
+      ellip_idle_1: -2008431401
+      ellip_idle_2: 586311651
+      ellip_idle_0: -1368133538
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
